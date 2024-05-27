@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/snow](https://github.com/prescientmoon/snow) 🚧
 # Snow
 
 Purescript implementation of [Complete and Easy Bidirectional
